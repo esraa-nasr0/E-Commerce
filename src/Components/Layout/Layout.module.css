@@ -1,0 +1,14 @@
+.network{
+    padding: 20px;
+    background-color: rgb(219, 230, 235);
+    position: fixed;
+    bottom: 30px;
+    left: 30px;
+    z-index: 99999;
+    box-shadow: var(--shadow);
+    border-radius: 7px;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
+}

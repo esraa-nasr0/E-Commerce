@@ -1,0 +1,36 @@
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.input{
+    width: 85%;
+    margin: 8px 0;
+    font-size: 1rem;
+    padding: 0.8rem 1rem;
+    border: 1px solid #ddd;
+    border-radius: 0.5rem;
+    display: flow-root;
+    justify-content: center;
+    align-items: center;
+
+}
+.button{
+  width:40% ;
+  background-color: #4a7976;
+  color: white;
+  padding: 10px 15px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  grid-column: 1/-1;
+  justify-self: center;
+  align-items: center;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}

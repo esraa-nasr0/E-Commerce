@@ -1,0 +1,12 @@
+.btn{
+    border: none;
+    padding: 1px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+.btn:hover{
+    border: solid 1px rgb(67, 149, 185);
+}
